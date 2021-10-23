@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\bin\Debug\netcoreapp5.0\ResearchProject.exe
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\bin\Debug\netcoreapp5.0\ResearchProject.deps.json
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\bin\Debug\netcoreapp5.0\ResearchProject.runtimeconfig.json
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\bin\Debug\netcoreapp5.0\ResearchProject.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\bin\Debug\netcoreapp5.0\ResearchProject.dll
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\bin\Debug\netcoreapp5.0\ref\ResearchProject.dll
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\bin\Debug\netcoreapp5.0\ResearchProject.pdb
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ResearchProject.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ResearchProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ResearchProject.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ResearchProject.AssemblyInfo.cs
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ResearchProject.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ResearchProject.dll
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ref\ResearchProject.dll
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ResearchProject.pdb
+C:\Users\Alex\Desktop\OOP\ResearchProjectSplashkit\obj\Debug\netcoreapp5.0\ResearchProject.genruntimeconfig.cache

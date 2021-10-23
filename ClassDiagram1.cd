@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ResearchProject.ECS_CColor">
+    <Position X="8" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Components\ECS_CColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_CMovement">
+    <Position X="10.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Entity Component System\Components\ECS_CMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_Component">
+    <Position X="10.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Components\ECS_Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_CTransform">
+    <Position X="12.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Components\ECS_CTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_Entity">
+    <Position X="14.75" Y="10.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAACABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Entities\ECS_Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_EntityFactory">
+    <Position X="14.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Entities\ECS_EntityFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_SCollide">
+    <Position X="10.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Systems\ECS_SCollide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_SMovement">
+    <Position X="12.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Systems\ECS_SMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_SRender">
+    <Position X="8" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Systems\ECS_SRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.ECS_System">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Component System\Systems\ECS_System.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_CColor">
+    <Position X="22.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_CColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_CMovement">
+    <Position X="25.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_CMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_Component">
+    <Position X="25.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_ComponentManager">
+    <Position X="22.75" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEBAAAAAAEAABAAAAAAAAABAAAAAKAAAAAAAAAAAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_ComponentManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_CTransform">
+    <Position X="29" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_CTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_EntityFactory">
+    <Position X="25.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_EntityFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_SCollide">
+    <Position X="28" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_SCollide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_SMovement">
+    <Position X="28" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_SMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResearchProject.CMA_SRender">
+    <Position X="25.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cache Miss Adjustments\CMA_SRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
